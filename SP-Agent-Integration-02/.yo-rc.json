@@ -1,0 +1,18 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "plusBeta": false,
+    "isCreatingSolution": true,
+    "nodeVersion": "18.19.1",
+    "sdksVersions": {},
+    "version": "1.21.1",
+    "libraryName": "sp-agent-integration-02",
+    "libraryId": "121e31ad-a74c-4dc8-ab70-51847cfe012d",
+    "environment": "spo",
+    "packageManager": "npm",
+    "solutionName": "sp-agent-integration-02",
+    "solutionShortDescription": "sp-agent-integration-02 description",
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "componentType": "webpart"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "sp-agent-integration-02-client-side-solution",
+    "id": "121e31ad-a74c-4dc8-ab70-51847cfe012d",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true,
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "developer": {
+      "name": "",
+      "websiteUrl": "",
+      "privacyUrl": "",
+      "termsOfUseUrl": "",
+      "mpnId": "Undefined-1.21.1"
+    },
+    "metadata": {
+      "shortDescription": {
+        "default": "sp-agent-integration-02 description"
+      },
+      "longDescription": {
+        "default": "sp-agent-integration-02 description"
+      },
+      "screenshotPaths": [],
+      "videoUrl": "",
+      "categories": []
+    },
+    "features": [
+      {
+        "title": "sp-agent-integration-02 Feature",
+        "description": "The feature that activates elements of the sp-agent-integration-02 solution.",
+        "id": "17f87475-e495-4f21-b526-db662496cdee",
+        "version": "1.0.0.0"
+      }
+    ]
+  },
+  "paths": {
+    "zippedPackage": "solution/sp-agent-integration-02.sppkg"
+  }
+}
