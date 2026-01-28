@@ -49,8 +49,7 @@ export default class CspDemo01 extends React.Component<ICspDemo01Props> {
     //this.loadWitHeader();
 
     this.inlineEvalCode();    
-    
-    
+        
     const {
       description,
       isDarkTheme,
