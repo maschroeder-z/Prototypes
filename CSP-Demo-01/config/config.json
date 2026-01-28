@@ -1,0 +1,23 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/config.2.0.schema.json",
+  "version": "2.0",
+  "bundles": {
+    "csp-demo-01-web-part": {
+      "components": [
+        {
+          "entrypoint": "./lib/webparts/cspDemo01/CspDemo01WebPart.js",
+          "manifest": "./src/webparts/cspDemo01/CspDemo01WebPart.manifest.json"
+        }
+      ]
+    }
+  },
+  "externals": {
+     "jquery": {
+      "path": "https://code.jquery.com/jquery-4.0.0.min.js",
+      "globalName": "jQuery"
+    }
+  },
+  "localizedResources": {
+    "CspDemo01WebPartStrings": "lib/webparts/cspDemo01/loc/{locale}.js"
+  }
+}

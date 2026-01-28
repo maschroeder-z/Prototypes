@@ -1,0 +1,40 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "csp-demo-01-client-side-solution",
+    "id": "c0e08526-0635-481c-8346-e538f720a13e",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true,
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "developer": {
+      "name": "",
+      "websiteUrl": "",
+      "privacyUrl": "",
+      "termsOfUseUrl": "",
+      "mpnId": "Undefined-1.21.1"
+    },
+    "metadata": {
+      "shortDescription": {
+        "default": "csp-demo-01 description"
+      },
+      "longDescription": {
+        "default": "csp-demo-01 description"
+      },
+      "screenshotPaths": [],
+      "videoUrl": "",
+      "categories": []
+    },
+    "features": [
+      {
+        "title": "csp-demo-01 Feature",
+        "description": "The feature that activates elements of the csp-demo-01 solution.",
+        "id": "dec33009-5d5e-4fe3-b0cb-53aeb11a9211",
+        "version": "1.0.0.0"
+      }
+    ]
+  },
+  "paths": {
+    "zippedPackage": "solution/csp-demo-01.sppkg"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "plusBeta": false,
+    "isCreatingSolution": true,
+    "nodeVersion": "18.19.1",
+    "sdksVersions": {},
+    "version": "1.21.1",
+    "libraryName": "csp-demo-01",
+    "libraryId": "c0e08526-0635-481c-8346-e538f720a13e",
+    "environment": "spo",
+    "packageManager": "npm",
+    "solutionName": "csp-demo-01",
+    "solutionShortDescription": "csp-demo-01 description",
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "componentType": "webpart"
+  }
+}
